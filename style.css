@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.lists {
+  width: 960px;
+  margin: 50px auto;
+  font-size: 10px;
+}
+
+.list1 {
+  background-color: #dcdcdc;
+}
+
+.list3 {
+  background-color: #dcdcdc;
+}
+
+.list5 {
+  background-color: #dcdcdc;
+}
+
+.list7 {
+  background-color: #dcdcdc;
+}
+
+.a {
+  padding: 15px;
+}
+
+.boxes {
+  width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.box1 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box2 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box3 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.box4 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box5 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+}
+
+.box6 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.box7 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 50px;
+}
+
+.box8 {
+  background-color: yellow;
+  height: 200px;
+  width: 30%;
+  margin-right: 5%;
+  margin-bottom: 50px;
+}
+
+.box9 {
+  background-color: orange;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 50px;
+}
